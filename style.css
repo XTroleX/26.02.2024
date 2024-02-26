@@ -1,0 +1,33 @@
+
+.up{
+    width: 1440px;
+    height: 718px;
+    background-image: url(bg-hero-desktop.svg);
+    background-position: center
+}
+.l1 img{
+margin: 30px;
+float: left;
+}
+.button-right-height{
+width: 200px;
+height: 39px;
+margin: 30px;
+background-color: white;
+border: none;
+border-radius: 20px;
+float: right;
+box-shadow: hsl(0, 0%, 64%) 2px 5px 15px;
+font-weight: 800;
+}
+.down{
+    width: 400px;
+    height: 200px;
+    padding-top: 200px;
+    padding-left: 80px;
+}
+.button-left-down{
+    width: 200px;
+    height: 39px;
+    background-color: rgb(255, 111, 135);
+}
